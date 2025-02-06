@@ -1,6 +1,6 @@
 # 🧩 Minions PyGame
 
-## 💡 To start playing:
+>💡 To START Playing :
 
 - `pip install pygame`
 - run `main.py`
