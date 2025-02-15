@@ -1,23 +1,21 @@
 # 🧩 Minions PyGame
 
-### Description 🧩 🎮:
+### Description 🧩:
 
 The game based on the PyGame library. The player needs to collect all the objects before he can complete the level. The
 interface is based on an arbitrary maze.
 
 ---
 
-### Game Images 🧩 🎮:
+### Game Screenshots 🧩:
 
 <img src="images/1.png" alt="my_projects" width="600">
 
 <img src="images/2.png" alt="my_projects" width="600">
 
-<img src="images/3.png" alt="my_projects" width="600">
-
 ---
 
-### To START Playing 🧩 🎮:
+### To START Playing 🧩:
 
 <ul>
     <li><strong>Install Python 3.10 +</strong></li>
@@ -53,5 +51,11 @@ pip install pygame
 # Run the game
 python main.py
 ```
+
+---
+
+### Game Screenshots 🧩:
+
+<img src="images/3.png" alt="my_projects" width="600">
 
 ---
