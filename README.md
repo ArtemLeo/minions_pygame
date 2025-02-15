@@ -1,17 +1,19 @@
 # 🧩 Minions PyGame
 
->💡 To START Playing :
+> To START Playing 🧩 🎮 :
 
-- `pip install pygame`
-- run `main.py`
+
+```python
+1. pip install pygame
+```
+```python
+2. run main.py
+```
 
 ---
-![my_projects](images/1.png)
-
+<img src="images/1.png" alt="my_projects" width="600">
 ---
-![my_projects](images/2.png)
-
+<img src="images/2.png" alt="my_projects" width="600">
 ---
-![my_projects](images/3.png)
-
+<img src="images/3.png" alt="my_projects" width="600">
 ---
