@@ -1,6 +1,16 @@
 # 🧩 Minions PyGame
 
-### To START Playing 🧩 🎮 :
+### Game Images 🧩 🎮: 
+
+<img src="images/1.png" alt="my_projects" width="600">
+
+<img src="images/2.png" alt="my_projects" width="600">
+
+<img src="images/3.png" alt="my_projects" width="600">
+
+---
+
+### To START Playing 🧩 🎮:
 
 <ul>
     <li><strong>Install Python 3.10 +</strong></li>
@@ -36,13 +46,5 @@ pip install pygame
 # Run the game
 python main.py
 ```
-
-### Game Images:
-
-<img src="images/1.png" alt="my_projects" width="600">
-
-<img src="images/2.png" alt="my_projects" width="600">
-
-<img src="images/3.png" alt="my_projects" width="600">
 
 ---
