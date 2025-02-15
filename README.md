@@ -1,10 +1,11 @@
 # 🧩 Minions PyGame
 
-> To START Playing 🧩 🎮 :
+### To START Playing 🧩 🎮 :
 
 
 ```python
 1. pip install pygame
+```
 
 ```python
 2. run main.py
