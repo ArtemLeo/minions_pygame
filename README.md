@@ -5,6 +5,8 @@
 The game based on the PyGame library. The player needs to collect all the objects before he can complete the level. The
 interface is based on an arbitrary maze.
 
+---
+
 ### Game Images 🧩 🎮:
 
 <img src="images/1.png" alt="my_projects" width="600">
